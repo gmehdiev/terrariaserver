@@ -1,0 +1,12 @@
+Logging to /root/server/tModLoader-Logs/Launch.log
+Verifying .NET....
+Fixing .NET SDL PATH issues
+Success!
+Parsing .NET version requirements from runtimeconfig.json
+Success! dotnet_version=6.0.14
+Checking for old .NET versions to remove from folder
+Cleanup Complete
+Checking dotnet install...
+Dotnet should be present in "/root/server/dotnet/6.0.14"
+Attempting Launch...
+Launched Using Local Dotnet. Launch command: "/root/server/dotnet/6.0.14/dotnet" tModLoader.dll "-server -config /home/tml/.local/share/Terraria/tModLoader/serverconfig.txt -tmlsavedirectory /home/tml/.local/share/Terraria/tModLoader"

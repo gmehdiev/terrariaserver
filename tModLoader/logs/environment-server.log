@@ -1,0 +1,14 @@
+TERM=xterm
+SHLVL=2
+HOSTNAME=98e9e434d28e
+OLDPWD=/home/tml/.local/share/Terraria/tModLoader/server/LaunchUtils
+dotnet_version=6.0.14
+DOTNET_ROLL_FORWARD=Disable
+dotnet_dir=/root/server/dotnet
+LD_LIBRARY_PATH=/root/server/Libraries/Native/Linux
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+FNA_WORKAROUND_WINDOW_RESIZABLE=1
+install_dir=/root/server/dotnet/6.0.14
+HOME=/root
+PWD=/root/server
+USER=root
